@@ -1,2 +1,2 @@
 # JavaJframe
-Game Devlopment
+Game Development
